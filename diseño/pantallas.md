@@ -13,21 +13,21 @@
 
 \*\*Administrador\*\*
 
-1. Ver pedidos de reservas (general)
+1.~~ Ver pedidos de reservas (general)~~
 
- 	- Filtrar por estado
+ 	-~~ Filtrar por estado~~
 
- 	- Filtrar por usuario
+ 	- ~~Filtrar por usuario~~
 
- 	- Botón para ver cada reserva en particular
+ 	- ~~Botón para ver cada reserva en particular~~
 
-2\. Ver reserva (particular)
+2\. ~~Ver reserva (particular)~~
 
- 	- Aceptar reserva (cambia el estado y los materiales figuran
+ 	- ~~Aceptar reserva (cambia el estado y los materiales figuran~~
 
- 	no disponibles para ese día en ese horario)
+ 	~~no disponibles para ese día en ese horario)~~
 
- 	- Rechazar reserva
+ 	- ~~Rechazar reserva~~
 
 # Link de Figma: https://www.figma.com/design/UrXzGlmt5SoYA3IqovNqPK/Sin-t%C3%ADtulo?node-id=0-1\&m=dev\&t=RDmZTDYAjAZu0ks4-1
 
