@@ -1,1 +1,1 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"9261d50670764e1ca163efe9c0c3e2c8","collectionName":"recursos","type":"collection"}
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"organizacion":{"$numberInt":"1"},"nombre":{"$numberInt":"1"}},"name":"organizacion_1_nombre_1"}],"uuid":"9261d50670764e1ca163efe9c0c3e2c8","collectionName":"recursos","type":"collection"}

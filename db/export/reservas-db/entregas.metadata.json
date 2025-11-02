@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"alumno":{"$numberInt":"1"}},"name":"alumno_1"},{"v":{"$numberInt":"2"},"key":{"tarea":{"$numberInt":"1"}},"name":"tarea_1"}],"uuid":"cfcd5158c31c4472a6598b4722397c43","collectionName":"entregas","type":"collection"}

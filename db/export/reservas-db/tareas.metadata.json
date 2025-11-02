@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"fecha_vencimiento":{"$numberInt":"1"}},"name":"fecha_vencimiento_1"},{"v":{"$numberInt":"2"},"key":{"curso":{"$numberInt":"1"}},"name":"curso_1"}],"uuid":"ef908c34784f4cbca73fed3e4c09c8cc","collectionName":"tareas","type":"collection"}

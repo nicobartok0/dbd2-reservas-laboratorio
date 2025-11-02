@@ -4,6 +4,8 @@ Lo que se me ocurre es lo siguiente:
 - Añadimos la colección "Cursos"
 - Añadimos la colección "Tareas"
 - Cambiamos "reservas" para que se relacione con la clase en vez de 
+- Añadimos una colección "Mensajes"
+- Añadimos una colección "Calificaciones"
 
 La idea sería:
 + El alumno puede entrar y elegir la organización de la cual quiere ver sus clases
@@ -16,3 +18,4 @@ La idea sería:
 + hay que crear las pestañas de crear clase
 
 + el administrador ahora podrá crear cursos y asignarle un profesor a cada curso además de aceptar o negar las reservas.
++ el alumno puede enviar mensajes a profesores y alumnos
