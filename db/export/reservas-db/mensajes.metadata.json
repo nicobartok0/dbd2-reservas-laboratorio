@@ -1,1 +1,1 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d4d3ea437f6c4a899dbbe0de4324916d","collectionName":"mensajes","type":"collection"}
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"destinatario":{"$numberInt":"1"},"fecha_envio":{"$numberInt":"-1"}},"name":"destinatario_1_fecha_envio_-1"}],"uuid":"d4d3ea437f6c4a899dbbe0de4324916d","collectionName":"mensajes","type":"collection"}
